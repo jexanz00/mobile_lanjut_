@@ -2,6 +2,7 @@
 Jalu Juanda | 2107051025
 
 # List
-* LKP 1
-* LKP Basic Widget
+* LKP 1 -> recipeapp
+* LKP Basic Widget -> fooderlich
   * Original
+  * Edited
