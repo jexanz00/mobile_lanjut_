@@ -5,3 +5,4 @@ Jalu Juanda | 2107051025
 * LKP 1
 * LKP Basic Widget
   * Original
+  * Edited
