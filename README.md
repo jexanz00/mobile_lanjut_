@@ -2,4 +2,5 @@
 
 Jalu Juanda | 2107051025
 
-# Handsome
+# List
+* LKP1
