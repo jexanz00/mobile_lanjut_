@@ -1,4 +1,4 @@
-# Pemprograman Mobile Lanjut
+# Pemrograman Mobile Lanjut
 Jalu Juanda | 2107051025
 
 # List
