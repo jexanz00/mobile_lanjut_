@@ -9,3 +9,5 @@ Jalu Juanda | 2107051025
 * LKP Understanding Widget -> fooderlich_extend_v1
 * LKP 5 (Kuis Scrollable Widget) -> fooderlich_extend_v2
   * Original
+  * Edited
+* 
